@@ -1,5 +1,3 @@
-# rule_based_classification
-
 # Rule-Based Classification - Potential Customer Profit Calculation
 
 Keywords -> Python, Numpy, Pandas, Rule Based Classification
